@@ -133,7 +133,7 @@ android {
             }
             isDebuggable = true
             if (appNameOverride == null) {
-                resValue("string", "app_name", "Metrolist Debug")
+                resValue("string", "app_name", "Aura99 ")
             }
             signingConfig =
                 if (workflowDebugKeystoreFile != null) {
