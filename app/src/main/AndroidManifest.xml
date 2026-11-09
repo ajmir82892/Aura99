@@ -166,9 +166,9 @@
             android:name=".MainActivityAlias"
             android:enabled="true"
             android:exported="true"
-            android:icon="@mipmap/ic_launcher"
+            android:icon="@drawable/aura99_logo"
             android:label="@string/app_name"
-            android:roundIcon="@mipmap/ic_launcher_round"
+            android:roundIcon="@drawable/aura99_logo"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -180,9 +180,9 @@
             android:name=".MainActivityStatic"
             android:enabled="false"
             android:exported="true"
-            android:icon="@mipmap/ic_launcher_static"
+            android:icon="@drawable/aura99_logo"
             android:label="@string/app_name"
-            android:roundIcon="@mipmap/ic_launcher_static_round"
+            android:roundIcon="@drawable/aura99_logo"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
